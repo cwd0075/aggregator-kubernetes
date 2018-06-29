@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: aggregator-service
-        image: us.gcr.io/sock-shop-207010/aggregator-service:5.0
+        image: us.gcr.io/sock-shop-207010/aggregator-service:6.0
         ports:
         - containerPort: 8080
