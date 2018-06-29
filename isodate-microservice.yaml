@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: isodate-service
-        image: us.gcr.io/sock-shop-207010/iso-date-service:latest
+        image: us.gcr.io/sock-shop-207010/iso-date-service:1.0
         ports:
         - containerPort: 3000
