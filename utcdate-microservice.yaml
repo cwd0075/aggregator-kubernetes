@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: utcdate-service
-        image: us.gcr.io/sock-shop-207010/utc-date-service:latest
+        image: us.gcr.io/sock-shop-207010/utc-date-service:1.0
         ports:
         - containerPort: 3001
